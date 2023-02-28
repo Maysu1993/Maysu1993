@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maysu1993:purple_heart: :colombia:
+- 👋 Hi, I’m @Maysu:purple_heart: :colombia:
 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
