@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Maysu1993
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Maysu1993:purple_heart:
+
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collabora
 <!---
