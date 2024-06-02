@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collabora
 - 
-<script src="https://tryhackme.com/badge/3152554"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mechavez.png" alt="TryHackMe">
 
 
 <!---
