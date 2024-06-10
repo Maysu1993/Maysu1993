@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collabora
 
-:atom:
-<img src="https://tryhackme-badges.s3.amazonaws.com/mechavez.png" alt="TryHackMe">
+
 
 
 <!---
